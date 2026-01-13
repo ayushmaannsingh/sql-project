@@ -4,7 +4,7 @@
 Compilation of SQL, Tableau, PySpark data analysis related projects and challenges where I practice those skills.
 
 Built with
-SQL Languages
+SQL Languages 
 
 SQL
 MySQL
